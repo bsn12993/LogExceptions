@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogExceptions", "LogExceptions\LogExceptions.csproj", "{414A07FA-717D-4256-9D9A-C0264581412D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{414A07FA-717D-4256-9D9A-C0264581412D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414A07FA-717D-4256-9D9A-C0264581412D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{414A07FA-717D-4256-9D9A-C0264581412D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414A07FA-717D-4256-9D9A-C0264581412D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {632A7DF3-622B-4AC2-8D10-6C4EEEBA4F97}
+	EndGlobalSection
+EndGlobal

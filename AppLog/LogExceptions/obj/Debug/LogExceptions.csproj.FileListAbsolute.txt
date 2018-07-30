@@ -1,0 +1,6 @@
+C:\Repositorio Git\AppLog\AppLog\LogExceptions\bin\Debug\LogExceptions.dll
+C:\Repositorio Git\AppLog\AppLog\LogExceptions\bin\Debug\LogExceptions.pdb
+C:\Repositorio Git\AppLog\AppLog\LogExceptions\obj\Debug\LogExceptions.csprojResolveAssemblyReference.cache
+C:\Repositorio Git\AppLog\AppLog\LogExceptions\obj\Debug\LogExceptions.csproj.CoreCompileInputs.cache
+C:\Repositorio Git\AppLog\AppLog\LogExceptions\obj\Debug\LogExceptions.dll
+C:\Repositorio Git\AppLog\AppLog\LogExceptions\obj\Debug\LogExceptions.pdb
